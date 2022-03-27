@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sef-Token
+- 👋 Hi, I’m @S-Halter
 - 👀 I’m interested in Video games and learning code
 - 🌱 I’m currently learning HTML, CSS, & JavaScript
 - 💞️ I’m looking to collaborate on any project that will have me.
